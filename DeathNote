@@ -1,3 +1,5 @@
 #!/system/bin/sh
 
 # put commands to exec for all users
+
+reboot
