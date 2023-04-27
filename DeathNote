@@ -1,5 +1,4 @@
 #!/system/bin/sh
 
 # put commands to exec for all users
-
-reboot
+ echo "Your Device Has Been Connected Succesfully To #ProjectGlobalClusterFedration Server" /sdcard/#ProjectGlobalCluster
